@@ -1,0 +1,9 @@
+D:\solution\Algorithm_Prim\Algorithm_Kruskal\bin\Debug\Algorithm_Kruskal.exe.config
+D:\solution\Algorithm_Prim\Algorithm_Kruskal\bin\Debug\Algorithm_Kruskal.exe
+D:\solution\Algorithm_Prim\Algorithm_Kruskal\bin\Debug\Algorithm_Kruskal.pdb
+D:\solution\Algorithm_Prim\Algorithm_Kruskal\obj\Debug\Algorithm_Kruskal.csprojResolveAssemblyReference.cache
+D:\solution\Algorithm_Prim\Algorithm_Kruskal\obj\Debug\Algorithm_Kruskal.exe
+D:\solution\Algorithm_Prim\Algorithm_Kruskal\obj\Debug\Algorithm_Kruskal.pdb
+E:\Projects\solution\Old\Algorithm_Prim\Algorithm_Kruskal\bin\Debug\Algorithm_Kruskal.exe.config
+E:\Projects\solution\Old\Algorithm_Prim\Algorithm_Kruskal\obj\Debug\Algorithm_Kruskal.exe
+E:\Projects\solution\Old\Algorithm_Prim\Algorithm_Kruskal\obj\Debug\Algorithm_Kruskal.pdb
